@@ -1,0 +1,108 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1549849171-09f62448709e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+}
+i {
+  margin-top: 15px;
+  font-size: 20px;
+}
+h2 {
+  text-align: left;
+  margin-left: 70px;
+  font-size: 90px;
+}
+
+header {
+  margin-left: 7px;
+}
+
+button {
+  height: 34px;
+}
+
+p {
+  display: inline;
+}
+
+li {
+  list-style: none;
+}
+
+form {
+  text-align: center;
+  margin-top: 40px;
+  padding-top: 10px;
+}
+
+input {
+  width: 300px;
+  height: 37px;
+  border: 1px solid gray;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(5px);
+}
+
+.logo {
+  color: whitesmoke;
+  margin-top: 15px;
+}
+
+.day {
+  font-size: 23px;
+}
+
+.weatherapp {
+  display: block;
+  margin: 0 auto;
+}
+
+.todays-weather {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.container {
+  margin-top: 25px;
+  width: 550px;
+  text-align: center;
+}
+
+.block {
+  display: block;
+  margin: 3px auto;
+}
+
+.box {
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(5px);
+  width: 540px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 15px;
+
+  border-radius: 30px;
+}
+
+.weekly {
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(5px);
+  border-radius: 30px;
+  padding-top: 17px;
+}
+
+.whitetxt {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.todaystemp {
+  color: rgba(0, 0, 255, 0.65);
+  font-weight: bold;
+}
+
+footer {
+  color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  font-size: 12px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
